@@ -27,3 +27,4 @@
 
 ```sh
 pip install -r [requirements.txt](http://_vscodecontentref_/0)
+# BrainTumerDetection
